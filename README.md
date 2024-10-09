@@ -1,6 +1,7 @@
 The embedded code for the spline design for react.js, node.js, three.js:
 
-```import Spline from '@splinetool/react-spline/next';
+```
+import Spline from '@splinetool/react-spline/next';
 
 export default function Home() {
   return (
